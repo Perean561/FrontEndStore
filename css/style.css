@@ -172,6 +172,7 @@ header {
 .nosotros {
     display: grid;
     grid-template-rows: repeat(2, auto);
+    margin: 0 1rem;
 }
 
 @media (min-width: 768px) {
